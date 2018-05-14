@@ -1,3 +1,3 @@
 # control_repo
 
-Testing
+Puppet sandbox
