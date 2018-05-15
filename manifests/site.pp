@@ -11,3 +11,7 @@ node /^web/ {
 node /^db/ {
   include role::db_server
 }
+
+node 'minecraft.puppet.vm' {
+  include role::mine_server
+}
