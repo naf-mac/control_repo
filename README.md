@@ -1,3 +1,3 @@
 # control_repo
 
-Puppet sandbox
+Puppet sandbox 2.0
